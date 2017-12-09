@@ -1,4 +1,8 @@
 this is  a test
 
+<<<<<<< HEAD
 
 something else
+=======
+something
+>>>>>>> 93a949f746bd1a82106ec32c9610b70df398f433
