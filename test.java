@@ -7,7 +7,8 @@ public class test
     
     public static void newMethod()
     {
-        System.out.println("changed a method");
+        System.out.println("something else");
+	System.out.println("This is new");
     }
 
 }
