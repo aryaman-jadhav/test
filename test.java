@@ -5,8 +5,8 @@ public class test
 	System.out.println("hello world");
     }
 
-    public static void a()
+    public static void b()
     {
-	System.out.println("something");
+	System.out.println("something different");
     }
 }
