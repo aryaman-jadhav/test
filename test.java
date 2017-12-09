@@ -7,6 +7,6 @@ public class test
 
     public static void a()
     {
-	System.out.println("something");
+	System.out.println("nothing");
     }
 }
