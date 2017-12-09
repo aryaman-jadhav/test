@@ -4,5 +4,10 @@ public class test
     {
 	System.out.println("This is a test");
     }
+    
+    public static void newMethod()
+    {
+        System.out.println("added a method");
+    }
 
 }
