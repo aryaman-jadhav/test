@@ -9,5 +9,10 @@ public class test
     {
 	System.out.println("Something else");
     }
+    
+    public static void a()
+    {
+	System.out.println("Something");
+    }
 
 }
